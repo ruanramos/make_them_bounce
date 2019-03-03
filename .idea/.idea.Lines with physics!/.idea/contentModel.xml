@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Public\Documents\Unity Projects\Lines with physics!" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets\EZ Camera Shake" t="Include">
+        <e p="Demo" t="Include">
+          <e p="Sample Scripts" t="Include">
+            <e p="ShakeByDistance.cs" t="Include" />
+            <e p="ShakeOnKeyPress.cs" t="Include" />
+            <e p="ShakeOnTrigger.cs" t="Include" />
+          </e>
+          <e p="ShakeDemo.cs" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="CameraShakeInstance.cs" t="Include" />
+          <e p="CameraShakePresets.cs" t="Include" />
+          <e p="CameraShaker.cs" t="Include" />
+          <e p="Utilities" t="Include">
+            <e p="CameraUtilities.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Assets\Scripts" t="Include">
+        <e p="CheckSwipe.cs" t="Include" />
+        <e p="Circle.cs" t="Include" />
+        <e p="DrawLine2D.cs" t="Include" />
+        <e p="DrawPhysicsLine.cs" t="Include" />
+        <e p="GlobalInfos.cs" t="Include" />
+        <e p="LifeSaver.cs" t="Include" />
+        <e p="SceneController.cs" t="Include" />
+        <e p="Spawner.cs" t="Include" />
+        <e p="UpgradesSceneController.cs" t="Include" />
+        <e p="VanishBalls.cs" t="Include" />
+      </e>
+      <e p="Assets\Simple UI" t="Include">
+        <e p="Fonts" t="Include">
+          <e p="OFL.txt" t="Include" />
+        </e>
+        <e p="Samples" t="Include">
+          <e p="IconPreview.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Assets\UETools" t="Include">
+        <e p="Magic_Particle_Effects" t="Include">
+          <e p="Readme.txt" t="Include" />
+          <e p="Scripts" t="Include">
+            <e p="CameraMovement.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="Lines with physics!.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+    <e p="C:\Users\Ruan Ramos\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Ruan Ramos\.Rider2018.2\system\resharper-host\Local\Transient\ReSharperHost\v182\SolutionCaches\_Lines with physics!.95555531.00" t="ExcludeRecursive" />
+  </component>
+</project>
